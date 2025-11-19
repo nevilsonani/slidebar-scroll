@@ -1,6 +1,6 @@
-# T.RICKS Menu + Slider
+# Slider Scroll
 
-A modern, responsive HTML template featuring a fullscreen menu and image slider components. This template is built with Webflow and includes custom animations and responsive design elements.
+A modern, responsive HTML template featuring a fullscreen menu and image slider components.
 
 ## Features
 
@@ -60,6 +60,3 @@ A modern, responsive HTML template featuring a fullscreen menu and image slider 
 - All animations are handled with CSS transitions
 - The menu and slider components are fully responsive
 
-## License
-
-This template is provided as-is. Please check the original source for licensing information.
